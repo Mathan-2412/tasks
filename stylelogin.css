@@ -1,0 +1,77 @@
+body{
+	
+   text-align:center;
+   margin:200px;
+   margin-left:500px;
+   margin-right:500px;
+   border:5px solid purple;
+   color:thick black
+   
+}
+body{
+	padding:50px;	
+}
+
+a{
+   text-decoration:none;   
+	
+}
+
+a{
+	
+	
+	color:white;
+}
+
+#colorchange{
+	color:white;
+	text-shadow:50%;
+	font-size:20px;
+}
+
+#student1{
+	
+	width:700;
+	height:300pxs;
+	text-align:left;
+	
+}
+
+#reset:hover{
+	
+	background-color:yellow;
+	color:red;
+}
+
+#header{
+	
+	color:white;
+	font-size:20px;
+	
+}
+
+#header:hover{
+	
+	color:red;
+}
+
+#crt:hover{
+	
+	color:red;
+}
+
+#crt{
+	
+	color:blue;
+}
+
+#colorchange:hover{
+	
+	color:red;
+}
+#cd{
+	
+	display:inline;
+	color:black;
+}
+

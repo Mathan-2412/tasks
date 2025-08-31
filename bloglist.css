@@ -1,0 +1,102 @@
+ body{
+    margin: 0;
+    padding: 0;
+ }
+
+.header{
+    width: 100%;
+    height: 30px;
+    margin-top: 25px;
+}
+
+.header h1 span{
+    color: red;
+}
+
+.header h1{
+    display: inline;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.links{
+     margin-left: 500px;
+     word-spacing: 30px;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.links a:hover{
+    color: red;
+}            
+
+ .footer h1{
+    text-align: center;
+    padding:25px;
+    color: white;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+
+.center h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 20px 10px;
+}
+
+.fastdelivery{
+    background-color: rgb(60, 10, 107);
+    width: 300px;
+    height:200px;
+    text-align: center;
+    color: white;
+}
+
+.freeshiping{
+    background-color: rgb(60, 10, 107);
+    width: 300px;
+    height:200px;
+      text-align: center;
+    color: white;
+}
+
+.bestquality{
+    background-color: rgb(60, 10, 107);
+    width: 300px;
+    height:200px;
+      text-align: center;
+    color: white;
+}
+
+.bestquality i{
+    padding-top: 29px ;
+    font-size: 40px;
+}
+
+.freeshiping i {
+    font-size: 40px;
+    padding-top: 29px;
+
+}
+
+.fastdelivery i{
+    font-size: 30px;
+    padding-top: 29px;
+}
+
+#blogcolor{
+    color: red;
+}

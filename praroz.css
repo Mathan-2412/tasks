@@ -1,0 +1,109 @@
+.header h1{
+    color: orangered;
+    display: inline;
+}
+
+body{
+    background-image: url(natural-sky-clouds-background.jpg);
+}
+
+.links a{
+    text-decoration: none;
+    color: red;
+    margin-left: 50px;
+}
+
+.links{
+    margin-left: 200px;
+}
+
+.header button{
+    padding: 5px 10px;
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+}
+
+.header input{
+    padding: 5px;
+    border: 2px solid orangered;
+}
+
+#search{
+    margin-left: 60px;
+}
+
+#search input{
+    background-color:
+}
+
+.header 
+
+#color1{
+    color: orangered;
+}
+
+.center h1{
+    font-size: 50px;
+    margin-top: 120px;
+}
+
+.center p{
+    line-height: 30px;
+}
+
+.center button{
+    padding: 5px 10px;
+    background-color: orangered;
+    border: 3px solid orangered;
+}
+
+.centerright{
+    line-height: 20px;
+    float: right ;
+    align-items: center;
+    background-color: black;
+    width:250px;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-top: -400px;
+    margin-right: 90px;
+    border-radius: 20px;
+}
+
+#button1{
+    padding: 5px 70px;
+    color: orangered;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+
+.centerright input{
+    border: 3px solid black;
+    border-bottom: 2px solid orangered;
+    background-color: black;
+}
+
+.centerright button{
+    color: black;
+    background-color: orangered;
+    padding: 5px 90px;
+    border: 3px solid orangered;
+    border-radius: 10px ;
+}
+
+.centerright p{
+    color: white;
+
+}
+
+.centerright a{
+    text-decoration: none;
+    color: orangered;
+}
+
+.all{
+    margin-left: 70px;
+}

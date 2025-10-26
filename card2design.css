@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(205, 227, 247);
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    direction: center;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     background:linear-gradient(45deg,orange,red,yellow);
+     -webkit-background-clip: text;
+}
+
+span i{
+    font-size: 40px;
+    padding-right: 35px;
+    color: transparent;
+}
+
+.card{
+    border-radius: 25px;
+    border: 2px transparent;
+    box-shadow: 1px 1px 1px black, inset 1px 1px 1px black;
+    background-color: white;
+    height: 230px;
+}
+
+.card h2{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 35px;
+}
+
+.card p{
+    padding-left: 40px;
+    padding-right: 35px;
+}
+
+.line{
+    width: 85%;
+    height: 5px;
+    background: linear-gradient(45deg,orange,red,yellow);
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.card span{
+   display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo1{
+    color:rgb(226, 22, 107)
+}

@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Pallindrome</title>
+    </head>
+    <body>
+        <script>
+            //*PALINDROMW*//
+
+            let num=prompt("Enter The Number")
+            let rev=0;
+            let val=num;
+            
+            console.log(parseInt(num/10));
+            while(num){
+            
+                 let rem=num%10;
+                 rev=rev*10 +rem;
+                 num=parseInt(num/10);
+            }
+
+            console.log("reverce Number: ", rev)
+            console.log("Number: ", num)
+            console.log("Another Number: ", val)
+
+            if(val==rev){
+                console.log("This IS Palindrome")
+            }else{
+                console.log("Not A Palindrome")
+            }
+        </script>
+    </body>
+</html>

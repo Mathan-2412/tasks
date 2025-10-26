@@ -1,0 +1,14 @@
+
+table{
+    background-color: rgb(158, 155, 150);
+}
+
+table, th, td{
+    padding:15px;
+    border-collapse: collapse;
+}
+
+table, th, td, img{
+    width: 100px;
+    height: 100px;
+}
